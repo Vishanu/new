@@ -1,3 +1,3 @@
 # new
-this is my first repo
-<br>nema-Vishanugiri
+this is my first repo:
+<br> Vishanugiri
